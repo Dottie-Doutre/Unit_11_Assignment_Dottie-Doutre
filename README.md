@@ -2,7 +2,7 @@
 
 ## Assignment by Dorothy Doutre 
 
-![image_add](images/credit-risk.jpg)
+![image_add](https://github.com/Dottie-Doutre/Unit_11_Assignment_Dottie-Doutre/blob/main/Images/credit-risk.jpg?raw=true)
 
 ## Assigment Summary:
 
@@ -25,7 +25,7 @@ Undersampling (ClusterCentroids function).
 Combination Sampling (Over and Under).
 ```
 
-![image_add](images/image1.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit_11_Assignment_Dottie-Doutre/blob/main/Images/image1.PNG?raw=true)
 Example (above) imbalanced classification report results for SMOTE oversampling model.
 ### Ensemble Learning:
 
@@ -36,7 +36,7 @@ Balanced Random Forest Classifier.
 Easy Ensemble Classifier.
 ```
 
-![image_add](images/image2.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit_11_Assignment_Dottie-Doutre/blob/main/Images/image2.PNG?raw=true)
 Example (above) imbalanced classification report results for Easy Ensemble Classifier model.
 
 ### Technologies used:
