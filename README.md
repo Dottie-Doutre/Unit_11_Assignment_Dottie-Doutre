@@ -26,6 +26,7 @@ Combination Sampling (Over and Under).
 ```
 
 ![image_add](https://github.com/Dottie-Doutre/Unit_11_Assignment_Dottie-Doutre/blob/main/Images/image1.PNG?raw=true)
+
 Example (above) imbalanced classification report results for SMOTE oversampling model.
 ### Ensemble Learning:
 
@@ -37,6 +38,7 @@ Easy Ensemble Classifier.
 ```
 
 ![image_add](https://github.com/Dottie-Doutre/Unit_11_Assignment_Dottie-Doutre/blob/main/Images/image2.PNG?raw=true)
+
 Example (above) imbalanced classification report results for Easy Ensemble Classifier model.
 
 ### Technologies used:
