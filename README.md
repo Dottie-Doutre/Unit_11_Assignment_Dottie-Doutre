@@ -6,11 +6,11 @@
 
 ## Assigment Summary:
 
-For this assignment we are tasked with building and evaluate several machine learning mdels to predict credit risks using data from peer-to-peer lending services.
+For this assignment we are tasked with building and evaluating several machine learning mdels to predict credit risks using data from peer-to-peer lending services data.
 
 Credit risk is seen inherently as an imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans).
 
-To counter this issue we employ different techniques for training and evaluating models with imbalanced classes. 
+To counter this issue, we employ different techniques for training and evaluating models with imbalanced classes. 
 
 This is done utilising the following techniques:
 
@@ -28,6 +28,7 @@ Combination Sampling (Over and Under).
 ![image_add](https://github.com/Dottie-Doutre/Unit_11_Assignment_Dottie-Doutre/blob/main/Images/image1.PNG?raw=true)
 
 Example (above) imbalanced classification report results for SMOTE oversampling model.
+
 ### Ensemble Learning:
 
 ```
@@ -49,8 +50,9 @@ Example (above) imbalanced classification report results for Easy Ensemble Class
 
 ---
 
-## Assignment findings:
-### Credit Risk - Resampling
+## Assignment findings
+
+### Credit Risk - Resampling:
 
 **1. Which model had the best balanced accuracy score?**
 
@@ -64,7 +66,7 @@ All models had the best (avg) recall score of 0.99.
 
 The SMOTE and Combination models are tied with the geo score of 0.99.
 
-### Credit Risk - Ensemble
+### Credit Risk - Ensemble:
 
 **1. Which model had the best balanced accuracy score?**
 
